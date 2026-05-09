@@ -1,0 +1,2 @@
+# HM_Personalized-Fashion-Recommendations-Kaggle
+这是一个关于Kaggle竞赛中HM服装公司的个性化推荐系统比赛，本项目用于共享银牌方法和思路
